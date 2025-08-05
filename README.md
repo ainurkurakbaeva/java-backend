@@ -16,7 +16,7 @@ TaskFlow — это простой и удобный аналог Jira для у
 - Java
 - Spring Boot
 - Spring Data JPA
-- PostgreSQL / H2
+- PostgreSQL / MongoDB
 - Maven / Gradle
 - REST API
 - RabbitMQ
